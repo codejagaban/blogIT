@@ -1,0 +1,23 @@
+body {
+    font-family: "sfns display" !important;
+}
+.ui.header, h1, p, .ui.button, a, strong, span {
+    font-family: "sfns display";
+}
+
+.font {
+    font-family: "sfns display" sans-serif;
+    
+}
+i.code {
+    font-size: 2em
+}
+.container.main {
+    margin-top: 7.0em;
+}
+.footer {
+    position: relative;
+}
+#delete {
+    display: inline;
+}
